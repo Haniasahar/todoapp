@@ -1,0 +1,107 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#logout {
+    background-color: navy;
+    margin-left: 70%;
+    padding: 1%;
+    border-radius: 10%;
+    border: none;
+}
+
+#navlink {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#icon{
+    margin-left: 10px;
+    font-size: large;
+}
+
+.todoapp {
+    width: 50%;
+    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    padding: 5%;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todoapp h1 {
+    color: maroon;
+    text-align: center;
+}
+
+.input {
+    display: flex;
+    width: 80%;
+}
+
+#input {
+    border: 2px solid grey;
+    width: 80%;
+    height: 30px;
+}
+
+#main {
+    color: white;
+    background-color: navy;
+    border: none;
+    outline: none;
+}
+
+ul {
+    width: 90%;
+    /* border: 2px solid black; */
+}
+
+.todolist {
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 5px solid grey;
+    margin: 3%;
+    margin-left: -3%;
+    border-top: none;
+    border-bottom: none;
+}
+
+li {
+    list-style-type: disc;
+    font-size: 22px;
+}
+
+.todolist button {
+    color: red;
+    font-size: 20px;
+    background: transparent;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+
+#clear {
+    color: white;
+    background-color: red;
+    font-size: large;
+    border: none;
+    outline: 0;
+    border-radius: 10%;
+}
+
+button {
+    cursor: pointer;
+}
+
+@media screen and (max-width:800px) {
+    .todoapp {
+        margin-top: 5%;
+    }
+}
