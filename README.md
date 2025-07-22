@@ -2,8 +2,6 @@
 
 A feature-rich to-do application with smooth animations, secure authentication, and persistent local storage.
 
-# ![App Preview](https://via.placeholder.com/800x400?text=To-Do+App+Screenshot) <!-- Replace with actual screenshot -->
-
 ## ✨ Features
 
 - **Task Management**: Add, edit, complete, and delete tasks
@@ -27,10 +25,12 @@ A feature-rich to-do application with smooth animations, secure authentication, 
 ```
 
 ## 🚀 Getting Started
-**Prerequisites**
-Node.js (v16+ recommended)
 
+**Prerequisites**
+<ul>
+Node.js (v16+ recommended)
 npm or yarn
+</ul>
 
 **Installation**
 ```bash
@@ -54,6 +54,7 @@ npm start
 ```
 
 ## 🔐 Authentication
+
 Formik for form handling and validation
 
 Simple JWT or session-based auth
@@ -76,7 +77,7 @@ localStorage API
 
 Optional: localForage for enhanced storage
 
-📝 Notes
+## 📝 Notes
 State management via React Context API
 
 Responsive design for all devices
