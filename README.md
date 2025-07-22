@@ -61,7 +61,7 @@ npm start
 - Protected routes for authenticated users
 
 ## 🎥 Animations
-- **Animate.css for:**
+**Animate.css for:**
 
 - Task entry/exit animations
 
@@ -70,7 +70,7 @@ npm start
 - Notification effects
 
 ## 💾 Data Persistence
-Todos persist between sessions using:
+**Todos persist between sessions using:**
 
 - `localStorage` API
 
