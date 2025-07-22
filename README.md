@@ -27,10 +27,9 @@ A feature-rich to-do application with smooth animations, secure authentication, 
 ## 🚀 Getting Started
 
 **Prerequisites**
-<ul>
+
 - Node.js (v16+ recommended)
 - npm or yarn
-</ul>
 
 **Installation**
 ```bash
