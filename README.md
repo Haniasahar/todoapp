@@ -62,7 +62,7 @@ npm start
 - Protected routes for authenticated users
 
 ## 🎥 Animations
-**Animate.css for:**
+- **Animate.css for:**
 
 - Task entry/exit animations
 
