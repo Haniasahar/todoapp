@@ -1,10 +1,10 @@
-<h1> ✅ React To-Do App with Authentication </h1>h1>
+<h1> ✅ React To-Do App with Authentication </h1>
 
 A feature-rich to-do application with smooth animations, secure authentication, and persistent local storage.
 
 # ![App Preview](https://via.placeholder.com/800x400?text=To-Do+App+Screenshot) <!-- Replace with actual screenshot -->
 
-## ✨ **Features**
+## ✨ Features
 
 - **Task Management**: Add, edit, complete, and delete tasks
 - **Persistent Storage**: Todos saved in browser's local storage
@@ -24,20 +24,24 @@ A feature-rich to-do application with smooth animations, secure authentication, 
   "react-icons": "^4.11.0",
   "localforage": "^1.10.0"  # or alternative for local storage
 }
-🚀 Getting Started
-Prerequisites
+```
+
+## 🚀 Getting Started
+**Prerequisites**
 Node.js (v16+ recommended)
 
 npm or yarn
 
-Installation
-bash
+**Installation**
+```bash
 git clone https://github.com/your-username/react-todo-app.git
 cd react-todo-app
 npm install
 npm start
-📂 Project Structure
-text
+```
+
+## 📂 Project Structure
+```text
 /src
 ├── components/       # Reusable UI components
 ├── pages/            # Route-based pages
@@ -47,14 +51,16 @@ text
 ├── utils/            # Utility functions
 ├── styles/           # CSS/SCSS files
 └── App.js            # Main app with routes
-🔐 Authentication
+```
+
+## 🔐 Authentication
 Formik for form handling and validation
 
 Simple JWT or session-based auth
 
 Protected routes for authenticated users
 
-🎥 Animations
+## 🎥 Animations
 Animate.css for:
 
 Task entry/exit animations
@@ -63,7 +69,7 @@ Page transitions
 
 Notification effects
 
-💾 Data Persistence
+## 💾 Data Persistence
 Todos persist between sessions using:
 
 localStorage API
@@ -77,4 +83,4 @@ Responsive design for all devices
 
 Accessibility best practices implemented
 
-<div align="center"> <br> <sub>Built with ❤️ by <a href="https://github.com/your-username">Your Name</a></sub> </div> ```
+<div align="center"> <br> <sub>Built with ❤️ by <a href="https://github.com/your-username">Your Name</a></sub> </div>
