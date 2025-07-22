@@ -28,8 +28,8 @@ A feature-rich to-do application with smooth animations, secure authentication, 
 
 **Prerequisites**
 <ul>
-• Node.js (v16+ recommended)
-• npm or yarn
+- Node.js (v16+ recommended)
+- npm or yarn
 </ul>
 
 **Installation**
@@ -55,33 +55,33 @@ npm start
 
 ## 🔐 Authentication
 
-• Formik for form handling and validation
+- Formik for form handling and validation
 
-• Simple JWT or session-based auth
+- Simple JWT or session-based auth
 
-• Protected routes for authenticated users
+- Protected routes for authenticated users
 
 ## 🎥 Animations
 **Animate.css for:**
 
-• Task entry/exit animations
+- Task entry/exit animations
 
-• Page transitions
+- Page transitions
 
-• Notification effects
+- Notification effects
 
 ## 💾 Data Persistence
 Todos persist between sessions using:
 
-• `localStorage` API
+- `localStorage` API
 
-• Optional: `localForage` for enhanced storage
+- Optional: `localForage` for enhanced storage
 
 ## 📝 Notes
-• State management via React Context API
+- State management via React Context API
 
-• Responsive design for all devices
+- Responsive design for all devices
 
-• Accessibility best practices implemented
+- Accessibility best practices implemented
 
 <div align="center"> <br> <sub>Built with ❤️ by <a href="https://github.com/Haniasahar">Haniya Sahar</a></sub> </div>
